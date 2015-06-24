@@ -1,0 +1,218 @@
+    1  ls
+    2  cd /home/ttnd/
+    3  cd /home/ttnd/Desktop
+    4  mkdir test
+    5  cd /home/ttnd/Desktop/test
+    6  gedit test.txt
+    7  pwd
+    8  cp test1 test2
+    9  cp test test2
+   10  cp /home/ttnd/Desktop/test/test.txt test2.txt
+   11  mv test2 test1
+   12  mv test2.txt test1.txt
+   13  touch test.txt
+   14  cat>test.txt
+   15  more test.txt
+   16  head test.txt
+   17  tail 
+   18  tail test.txt
+   19  ps
+   20  top
+   21  wdssdsaddada
+   22  ifconfig
+   23  dig domain
+   24  date
+   25  cal
+   26  uptime
+   27  w
+   28  whoami
+   29  finger ttnd
+   30  sudo ap-get install finger
+   31  history
+   32  man command
+   33  uname -a
+   34  cat /proc/cpuinfo
+   35  which app
+   36  free
+   37  df
+   38  ~
+   39  locate mozilla
+   40  id
+   41  top
+   42  curl -s get.gvmtool.net | bash
+   43  sudo apt-get install curl
+   44  curl -s get.gvmtool.net | bash
+   45  source "$HOME/.gvm/bin/gvm-init.sh"
+   46  cd/
+   47  cd /
+   48  ll
+   49  cd etc/
+   50  ll
+   51  vi host
+   52  vi hosts
+   53  cd ../opt/
+   54  ll
+   55  cd
+   56  ll
+   57  less .bashrc 
+   58  cd /
+   59  ll
+   60  cd etc/
+   61  ll
+   62  vi hostname 
+   63  sudo vi hostname 
+   64  cd /
+   65  cd etc/
+   66  LL
+   67  ll
+   68  sudo vi hosts
+   69  cd
+   70  touch a
+   71  cat a
+   72  vi a
+   73  cd /etc
+   74  sudo vi hosts
+   75  ll
+   76  chmod 777 hosts
+   77  sudo chmod 777 hosts
+   78  sudo hostname
+   79  sudo vi hostname
+   80  cd etc
+   81  cd /etc
+   82  sudo vi hosts
+   83  sudo gedit hosts
+   84  sudo gedit hostname 
+   85  sudo vi hostname 
+   86  sudo gedit hosts
+   87  sudo vi hosts
+   88  ll
+   89  cd /etc/
+   90  cat hosts
+   91  cat hostname
+   92  cd /etc/
+   93  vi hosts
+   94  sudo gedit hosts
+   95  cat hosts
+   96  cd /opt
+   97  sudo tar -xvjf ~/Downloads/jdk-7u21-linux-x64
+   98  cd /home/ttnd/Downloads/
+   99  ll
+  100  tar -xvzf jdk-7u21-linux-x64.tar.gz
+  101  mv jdk-7u21-linux-x64.tar.gz  /opt/
+  102  sudo mv jdk-7u21-linux-x64.tar.gz  /opt/
+  103  cd /opt/
+  104  ll
+  105  tar -xvzf jdk-7u21-linux-x64.tar.gz 
+  106  sudo tar -xvzf jdk-7u21-linux-x64.tar.gz 
+  107  ll
+  108  less .bashrc 
+  109  gedit .bashrc 
+  110  . 
+  111  . ~/.bashrc
+  112  gedit .bashrc 
+  113  sudo apt-get install mysql-server
+  114  mysql -u root -p igdefault
+  115  mysql -u root -pigdefault
+  116  alias sql=mysql -uroot -pigdefault
+  117  alias sql=mysql -u root -pigdefault
+  118  alias sql='mysql -u root -pigdefault'
+  119  sql
+  120  passwd
+  121  mysql
+  122  sudo apt-get install mysql-server
+  123  java -v
+  124  idea.sh
+  125  grails --version
+  126  javac
+  127  java -version
+  128  cp /home/ttnd/Downloads/idea-IU-139.224.1/   /opt
+  129  cp /home/ttnd/Downloads/idea-IU-139.224.1/ /opt
+  130  cp /home/ttnd/Downloads/idea-IU-139.224.1 /opt
+  131  gedit 
+  132  chmod 777 -R /opt
+  133  sudo chmod 777 -R /opt
+  134  cp -R /home/ttnd/Downloads/idea-IU-139.224.1 /opt
+  135  gedit .bashrc 
+  136  . ~/.bashrc
+  137  gedit .bashrc 
+  138  groovyConsole
+  139  grovvyConsole
+  140  groovyConsole
+  141  groovyConsole&
+  142  idea.sh
+  143  grails -version
+  144  grails --version
+  145  chmod 777 -R /opt
+  146  sudochmod 777 -R /opt
+  147  sudo chmod 777 -R /opt
+  148  grails --version
+  149  grails create-app testapp
+  150  java -version
+  151  javac
+  152  idea.sh
+  153  cd/
+  154  cd
+  155  ssh
+  156  sudo apt-get install openssh server
+  157  sudo apt-get install openssh-server
+  158  sudo apt-get install openssh-client
+  159  sudo apt-get install synapse
+  160  sudo apt-get update
+  161  sudo apt-get install synapse
+  162  cat .ssh/id_rsa.pub 
+  163  idea.sh
+  164  cd Desktop/
+  165  touch abc.txt
+  166  vim abc.txt
+  167  gedit abc.txt
+  168  vim abc.txt
+  169  sudo apt-get install vim
+  170  sudo apt-get install git-core
+  171  sudo apt-get install openssh-server
+  172  cd
+  173  cd .ssh
+  174  ssh
+  175  ssh amit@
+  176  ssh 
+  177  ll
+  178  ssh keygen
+  179  ssh-keygen
+  180  cd .ssh
+  181  ll
+  182  ssh-keygen
+  183  ll
+  184  cd known_hosts
+  185  ssh-keygen -t rsa
+  186  ll
+  187  cat id_rsa.pub
+  188  cd
+  189  git clone https://github.com/Richabh24/test.git
+  190  cd test
+  191  touch abc.txt
+  192  vim abc.txt
+  193  cd test
+  194  git status
+  195  git add .
+  196  git status
+  197  git commit -am 'first commit'
+  198  git config --global user.email "richakumari243@gmail.com"
+  199  git config --global user.name "Richa Kumari"
+  200  git commit -am 'first commit'
+  201  git push origin master
+  202  cd 
+  203  cd .ssh
+  204  ll
+  205  cat id_rsa.pub
+  206  java -jar /home/ttnd/Desktop/KeyMaker.jar 
+  207  cd 
+  208  java -jar /home/ttnd/Desktop/KeyMaker.jar 
+  209  java - jar /home/ttnd/Desktop/KeyMaker.jar 
+  210  cd
+  211  cat id_rsa.pub
+  212  cd ssh
+  213  cd .ssh
+  214  cat id_rsa.pub
+  215  cd testapp
+  216  grails generate-all testapp.Book
+  217  history
+  218  history > grailsrevision23-6-2015.txt
